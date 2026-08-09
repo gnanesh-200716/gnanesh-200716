@@ -1,8 +1,6 @@
-# 🕷️ Gnanesh
+# Hi, I'm Gnanesh ✨
 
 **`Aspiring Software Engineer`**
-
-Hi, I'm Gnanesh ✨
 
 I'm a CSE student specializing in Artificial Intelligence & Machine Learning.
 
