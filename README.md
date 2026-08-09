@@ -22,7 +22,10 @@ Turning “what if?” into “it works.” — one project, one bug, and one qu
 
 #
 
-### 📊 Stats
+#
+
+
+### 📊 GitHub Stats
 
 ![Gnanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnanesh-200716&show_icons=true&theme=gruvbox)
 
