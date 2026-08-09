@@ -16,9 +16,9 @@ Turning “what if?” into “it works.” — one project, one bug, and one qu
 
 ### 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,figma,git,github&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,figma,git,github,vscode&theme=light)
 
-**Also comfortable with**: SQL using DB-API
+**Also comfortable with**: SQL using DB-API ,Basic ML workflows.
 
 #
 
@@ -27,11 +27,15 @@ Turning “what if?” into “it works.” — one project, one bug, and one qu
 
 ### 📊 GitHub Stats
 
-![Gnanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnanesh-200716&show_icons=true&theme=gruvbox)
+![Gnanesh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=gnanesh-200716&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gnanesh-200716&theme=gruvbox&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gnanesh-200716&theme=gruvbox&border_radius=4.5)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=gnanesh-200716&layout=compact&theme=gruvbox)
+### 🐍 My Contributions
 
-#
+![GitHub Snake](https://raw.githubusercontent.com/gnanesh-200716/gnanesh-200716/output/github-snake.svg)
+
+
 
 <!--
 <details>
@@ -48,6 +52,11 @@ One project, one bug, and one questionable decision at a time. 🕷️
 </details>
 -->
 
+
+<!-- <a href="https://www.linkedin.com/in/gnaneshwarans/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a> -->
+
 ### Fun Facts:
 
 - I enjoy coding, gaming, movies, and fictional universes.
@@ -56,7 +65,9 @@ One project, one bug, and one questionable decision at a time. 🕷️
 - Marvel fan, with a slight bias towards Spider-Man.
 - Currently trying to turn "I want to become a software engineer" into "I am one."
 
-& With great code comes great debugging.
 
 
-[linkedin]: https://www.linkedin.com/in/gnaneshwarans/
+  **` & With great code comes great debugging `**                                                                 
+
+
+
