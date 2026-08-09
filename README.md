@@ -1,6 +1,6 @@
-# Hey there! 👋
+# Hi, I'm Gnanesh ✨
 
-I'm Gnanesh, a CSE student specializing in Artificial Intelligence & Machine Learning.
+I'm a CSE student specializing in Artificial Intelligence & Machine Learning.
 
 I'm an aspiring Software Engineer who enjoys building things, learning how they work, and occasionally breaking them in the process.
 
