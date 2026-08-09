@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**gnanesh-200716/gnanesh-200716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gnanesh, a CSE student specializing in Artificial Intelligence & Machine Learning.
 
-Here are some ideas to get you started:
+I'm an aspiring Software Engineer who enjoys building things, learning how they work, and occasionally breaking them in the process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like turning random ideas into real projects and learning new technologies by actually using them instead of just collecting tutorials I'll never finish. 😭
+
+My main tech stack is Python, Java, Javascript, SQL,  and a constantly growing list of things I'm currently trying to figure out.
+
+My biggest fictional inspiration is Spider-Man — not just because of the suit, but because Peter Parker is basically a guy trying to figure everything out while still showing up and getting the job done. 🕷️
+
+Turning “what if?” into “it works.” — one project, one bug, and one questionable decision at a time.
+
+ # Fun Facts:
+- I enjoy coding, gaming, movies, and fictional universes.
+- I learn by building, breaking, and rebuilding.
+- I sometimes debug bugs that I personally created. 💀
+- Marvel fan, with a slight bias towards Spider Man.
+- Currently trying to turn "I want to become a software engineer" into "I am one."
+
+
+& With great code comes great debugging.
