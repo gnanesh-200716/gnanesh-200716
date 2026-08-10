@@ -20,21 +20,8 @@ Turning “what if?” into “it works.” — one project, one bug, and one qu
 
 **Also comfortable with**: SQL using DB-API ,Basic ML workflows.
 
-#
 
 #
-
-
-### 📊 GitHub Stats
-
-![Gnanesh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=gnanesh-200716&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com/?user=gnanesh-200716&theme=gruvbox&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=gnanesh-200716&layout=compact&theme=gruvbox)
-### 🐍 My Contributions
-
-![GitHub Snake](https://raw.githubusercontent.com/gnanesh-200716/gnanesh-200716/output/github-snake.svg)
-
 
 
 <!--
