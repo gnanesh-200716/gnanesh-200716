@@ -16,7 +16,7 @@ Turning “what if?” into “it works.” — one project, one bug, and one qu
 
 ### 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,figma,git,github,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,figma,git,github,docker,vscode&theme=light)
 
 **Also comfortable with**: SQL using DB-API ,Basic ML workflows.
 
